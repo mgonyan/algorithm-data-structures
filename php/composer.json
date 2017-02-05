@@ -1,0 +1,13 @@
+{
+    "name": "mgonyan/php",
+    "authors": [
+        {
+            "name": "Manuel Gonzalez",
+            "email": "mgonyan@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.0"
+    }
+}
