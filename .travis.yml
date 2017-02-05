@@ -1,10 +1,17 @@
 sudo: false
 
-language: php
+language: php, node_js
 
 cache:
   directories:
-    - $HOME/.composer/cache
+    - $HOME/php/.composer/cache
+
+node_js:
+  - stable
+
+branches:
+  only:
+  - master
 
 php:
   - 7.0
