@@ -11,7 +11,7 @@ PHP version
 ## Run test
 
 ```sh
-$> composer test
+$> composer run test
 ```
 
 ## Author

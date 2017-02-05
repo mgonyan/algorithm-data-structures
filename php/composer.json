@@ -6,8 +6,15 @@
             "email": "mgonyan@gmail.com"
         }
     ],
-    "require": {},
-    "require-dev": {
+    "require": {
         "phpunit/phpunit": "^6.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-0": { "Algorithm": "src/" }
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit --verbose -c phpunit.xml.dist"
     }
 }
