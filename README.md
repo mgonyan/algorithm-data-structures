@@ -20,12 +20,11 @@ The exercises are based on the following book:
 - Javascript: 
 - PHP:
 
-
 ## Collaboration
 
 Any suggestion is welcome through GitHub issues  
 
 ## Author
 
-- Manue Gonzalez | [GitHub](https://github.com/mgonyan) | [Twitter](https://twitter.com/mgonyan) | <mgonyan@gmail.com>
+- Manuel Gonzalez | [GitHub](https://github.com/mgonyan) | [Twitter](https://twitter.com/mgonyan) | <mgonyan@gmail.com>
 
