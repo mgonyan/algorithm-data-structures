@@ -2,8 +2,8 @@ Algorithm and Data Structures
 =============================
 
 The goal of this repository is allow me to:
-1. Refresh all the data structures and algorithms concepts I have learnt when I was at the university, which I consider
-really important and useful tool when you face a programing problem
+
+1. Refresh all the data structures and algorithms concepts I have learnt when I was at the university, which I consider really important and useful tool when you face a programing problem.
 
 2. Keep my skills sharp.
 
