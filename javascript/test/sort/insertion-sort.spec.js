@@ -3,7 +3,7 @@
 const sort = require('../../src/sort/insertion-sort');
 const expect = require('expect');
 
-describe('Sort array of integers using insertion sort strategy', () => {
+describe('[Chapter 2] Insertion sort strategy', () => {
   it('should return empty array if the input is empty', () => {
     expect(sort([])).toEqual([]);
   });
